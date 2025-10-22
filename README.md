@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">My name is sam</p>
+<p align="left">Hi! I'm Sam Nouralahi, a programmer and technology enthusiast.
+I started my journey by learning HTML, CSS, JavaScript, Node.js, Express, and MySQL, and I’m currently focusing on gaining more expertise in machine learning.
+
+I’m passionate about creating and learning new things — from designing user interfaces and building applications to working on servers and security.
+My goal is to turn ideas into real, practical projects and to keep growing and improving every day.</p>
 
 ###
 
