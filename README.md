@@ -1,62 +1,74 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 
-<h3 align="center">Full-Stack Developer | React & Next.js | NestJS</h3>
+<h3 align="center">Full-Stack Developer from Iran 🇮🇷</h3>
 
 <p align="center">
-  Building modern, scalable and user-friendly web applications.
+  I enjoy building modern web applications, backend systems, and cross-platform applications.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🚀 Full-Stack Developer passionate about building modern web applications
-* ⚛️ Mainly working with **React, Next.js, TypeScript and NestJS**
-* 🧠 Interested in **software architecture, backend systems and scalable applications**
-* 🌱 Currently learning and exploring **advanced React, Next.js and NestJS**
-* 🔧 I enjoy working with both frontend and backend technologies
-* 💡 Always interested in learning new technologies and building new projects
+* 💻 Full-Stack Developer focused on **TypeScript**
+* ⚛️ Building web and cross-platform applications with **React, Next.js, React Native and Electron**
+* 🚀 Developing backend applications with **NestJS and Express**
+* 🗄️ Working with both SQL and NoSQL databases
+* 🔌 Interested in **Embedded Systems** and Arduino
+* 🐧 Comfortable working with **Linux**
+* 🐳 Using **Docker** for development and deployment
+* 🌱 Always learning and exploring new technologies
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Frontend
+#### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=ts,cpp" />
 </p>
 
-#### Backend
+#### 🎨 Frontend & Cross-Platform
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-#### Database & Infrastructure
-
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka,docker" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <strong> React Native</strong>
+  &nbsp;&nbsp;
+  <strong>Electron.js</strong>
 </p>
 
-#### Other Technologies
+#### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,python,cpp,rust,go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+#### 🔌 Embedded
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+</p>
+
+#### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+#### 🧰 Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samnurollahi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnurollahi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📫 Contact Me
+### 📫 Get in Touch
 
 <p>
   📧 <a href="mailto:sam.nurollahi@gmail.com">sam.nurollahi@gmail.com</a>
