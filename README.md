@@ -3,77 +3,94 @@
 <h3 align="center">Full-Stack Developer from Iran 🇮🇷</h3>
 
 <p align="center">
-  I enjoy building modern web applications, backend systems, and cross-platform applications.
+  I enjoy building modern web applications, backend systems, cross-platform applications, and embedded projects.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 * 💻 Full-Stack Developer focused on **TypeScript**
-* ⚛️ Building web and cross-platform applications with **React, Next.js, React Native and Electron**
-* 🚀 Developing backend applications with **NestJS and Express**
-* 🗄️ Working with both SQL and NoSQL databases
-* 🔌 Interested in **Embedded Systems** and Arduino
+* ⚛️ Building applications with **React, Next.js, React Native, and Electron.js**
+* 🚀 Developing backend systems with **NestJS and Express**
+* 🗄️ Working with SQL and NoSQL databases
+* 🔌 Interested in **Embedded Systems** and **Arduino**
 * 🐧 Comfortable working with **Linux**
 * 🐳 Using **Docker** for development and deployment
 * 🌱 Always learning and exploring new technologies
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 💻 Languages
+### 💻 Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,cpp" />
 </p>
 
-#### 🎨 Frontend & Cross-Platform
+### 🎨 Frontend & Cross-Platform
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="48" height="48" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <strong> React Native</strong>
-  &nbsp;&nbsp;
-  <strong>Electron.js</strong>
+<p align="left">
+  <strong>React Native</strong>
 </p>
 
-#### ⚙️ Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
+</p>
 
-<p>
+### ⚙️ Backend
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
 </p>
 
-#### 🔌 Embedded
+### 🔌 Embedded
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,cpp" />
 </p>
 
-#### 🗄️ Databases
+### 🗄️ Databases
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
-#### 🧰 Tools & Environment
+### 🧰 Tools & Environment
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
 ---
 
-### 📫 Get in Touch
+## 📊 GitHub Stats
 
-<p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=samnurollahi&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnurollahi&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
   📧 <a href="mailto:sam.nurollahi@gmail.com">sam.nurollahi@gmail.com</a>
 </p>
 
-<p>
+<p align="left">
   💻 <a href="https://github.com/samnurollahi">GitHub</a>
 </p>
