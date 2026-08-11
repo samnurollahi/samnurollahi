@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 
-<h3 align="center">Full-Stack Developer from Iran 🇮🇷</h3>
+<h3 align="center">Full-Stack Developer from Iran</h3>
 
 <p align="center">
   I enjoy building modern web applications, backend systems, cross-platform applications, and embedded projects.
