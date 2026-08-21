@@ -65,7 +65,7 @@
 ### 🧰 Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,jest" />
 </p>
 
 ---
