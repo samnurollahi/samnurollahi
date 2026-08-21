@@ -26,7 +26,7 @@
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,c,cpp,python" />
 </p>
 
 ### 🎨 Frontend & Cross-Platform
@@ -53,7 +53,7 @@
 ### 🔌 Embedded
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 ### 🗄️ Databases
