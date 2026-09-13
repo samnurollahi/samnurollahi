@@ -17,6 +17,8 @@
 * 🔌 Interested in **Embedded Systems** and **Arduino**
 * 🐧 Comfortable working with **Linux**
 * 🐳 Using **Docker** for development and deployment
+* 🔄 Working with **GitHub Actions** for CI/CD
+* 🌐 Using **Nginx** for web servers and reverse proxy
 * 🌱 Always learning and exploring new technologies
 
 ---
@@ -65,22 +67,7 @@
 ### 🧰 Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,jest" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=samnurollahi&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnurollahi&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,jest,githubactions,nginx" />
 </p>
 
 ---
