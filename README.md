@@ -1,75 +1,9 @@
-# 👋 Hi, I'm Sam
+n# 👋 Hi, I'm Sam
 
 ### Full-Stack Developer from Iran
 
 I enjoy building modern web applications, backend systems, cross-platform applications, and embedded projects.
 
----
-
-## 👨‍💻 About Me
-
-- 💻 Full-Stack Developer focused on **TypeScript**
-- ⚛️ Building applications with **React, Next.js, React Native, and Electron.js**
-- 🚀 Developing backend systems with **NestJS and Express**
-- 📨 Working with **RabbitMQ** and message-driven architectures
-- 🗄️ Working with SQL and NoSQL databases
-- 🔌 Interested in **Embedded Systems** and **Arduino**
-- 🐧 Comfortable working with **Linux**
-- 🐳 Using **Docker** for development and deployment
-- 🔄 Working with **GitHub Actions** for CI/CD
-- 🌐 Using **Nginx** for web servers and reverse proxy
-- 🌱 Always learning and exploring new technologies
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,c,cpp,python" />
-</p>
-
-### 🎨 Frontend & Cross-Platform
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="48" height="48" />
-</p>
-
-<p align="left">
-  <strong>React Native</strong>
-</p>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,rabbitmq" />
-</p>
-
-### 🔌 Embedded
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-</p>
-
-### 🧰 Tools & Environment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,jest,githubactions,nginx" />
-</p>
-
----
 
 ## 📫 Contact Me
 
